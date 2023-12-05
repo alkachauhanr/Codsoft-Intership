@@ -1,3 +1,4 @@
-This dataset is taken from takggle. 
-Titanic Dataset with 418 rows only. The Target of the dataset is to find the number of survivers and non survivers on the titanic.
+This dataset is taken from Kaggle. 
+Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not.
+The dataset typically used for this project contains information about individual passengers, such as their age, gender, ticket class, fare, cabin, and whether or not they survived.
 link of the dataset - https://www.kaggle.com/datasets/brendan45774/test-file/data
